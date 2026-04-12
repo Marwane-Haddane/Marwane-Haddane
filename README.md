@@ -40,13 +40,13 @@ Exploring computer vision, game and web development while building strong founda
 <!-- GIFs Section aligned to the right -->
 <div >
 
-  <img height=Full src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJmdGZydnA2cWh5OXBzdWFqbWhqcW5rY25scmx4ZTY1M3J6c3QxcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hsMx3HglDGF5BNOFtm/giphy.gif" width="33%" />
+  <img height=Full src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJmdGZydnA2cWh5OXBzdWFqbWhqcW5rY25scmx4ZTY1M3J6c3QxcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hsMx3HglDGF5BNOFtm/giphy.gif" width="32%" />
 
 
-  <img height=Full src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3AxZXAzZHl4dWsyY2FyZ3owYzF6dHNvYW91dGM5ZHE2NzEyc2FhMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="33%" />
+  <img height=Full src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3AxZXAzZHl4dWsyY2FyZ3owYzF6dHNvYW91dGM5ZHE2NzEyc2FhMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="32%" />
 
   
-  <img height=Full src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dnajRkZ3JlMHBwamN3eXhtMTFoN2QxM3ZpOTNjdmE0MGZqdW5raiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="33%" />
+  <img height=Full src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dnajRkZ3JlMHBwamN3eXhtMTFoN2QxM3ZpOTNjdmE0MGZqdW5raiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="32%" />
 
 </div>
 
