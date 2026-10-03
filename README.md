@@ -11,6 +11,22 @@ Exploring computer vision, game and web development while building strong founda
 
 <img src="https://readme-typing-svg.herokuapp.com?size=22&color=ff0000&lines=Cybersecurity+Student;Ethical+Hacking+%26+CTF+Player;Automation+%26+AI+Agents;Robotics+%26+Computer+Vision;Web+%26+Game+Development" />
 
+# 🚀 Check This Out
+<div align="center">
+┌─────────────────────────────────┐
+│        🟢 LIVE PROJECTS         │
+└─────────────────────────────────┘
+<br><br>
+<a href="https://robogenius.dev"> <img src="https://img.shields.io/badge/🤖%20ROBOGENIUS%20WEBSITE-4DA6FF?style=for-the-badge" /> </a>
+
+<br>
+
+<a href="https://labelle-maison.web.app/"> <img src="https://img.shields.io/badge/🏠%20LA%20BELLE%20MAISON%20WEBSITE-FF0000?style=for-the-badge" /> </a> 
+
+
+
+
+<br></div>
 
 ## 🌐 Let's Connect:
 <p align="left">
