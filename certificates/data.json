@@ -1,0 +1,162 @@
+[
+  {
+    "title": "CS50x: Introduction to Computer Science",
+    "issuer": "Harvard University",
+    "date": "2026",
+    "verify": "https://cs50.harvard.edu/certificates/9b8fa55f-f037-4ffe-95af-85d90b1bb996",
+    "img": "images/cs50x-introduction-to-computer-science.svg",
+    "kind": "Certificate"
+  },
+  {
+    "title": "Accelerate Your Job Search with AI",
+    "issuer": "Google",
+    "date": "Jun 2026",
+    "verify": "https://coursera.org/verify/GGCU2TIPXQVL",
+    "img": "images/accelerate-your-job-search-with-ai.svg",
+    "kind": "Course certificate"
+  },
+  {
+    "title": "Assets, Threats, and Vulnerabilities",
+    "issuer": "Google",
+    "date": "Jun 2026",
+    "verify": "https://coursera.org/verify/SEBED6F4BU1Z",
+    "img": "images/assets-threats-and-vulnerabilities.svg",
+    "kind": "Course certificate"
+  },
+  {
+    "title": "Automate Cybersecurity Tasks with Python",
+    "issuer": "Google",
+    "date": "Jun 2026",
+    "verify": "https://coursera.org/verify/5SF0V47SO2OB",
+    "img": "images/automate-cybersecurity-tasks-with-python.svg",
+    "kind": "Course certificate"
+  },
+  {
+    "title": "Connect and Protect: Networks and Network Security",
+    "issuer": "Google",
+    "date": "Apr 2026",
+    "verify": "https://coursera.org/verify/5P15IVIYLN9M",
+    "img": "images/connect-and-protect-networks-and-network-security.svg",
+    "kind": "Course certificate"
+  },
+  {
+    "title": "Foundations of Cybersecurity",
+    "issuer": "Google",
+    "date": "Feb 2026",
+    "verify": "https://coursera.org/verify/R4HUDRWYTM16",
+    "img": "images/foundations-of-cybersecurity.svg",
+    "kind": "Course certificate"
+  },
+  {
+    "title": "Google Cybersecurity Professional Certificate",
+    "issuer": "Google",
+    "date": "2026",
+    "kind": "Professional certificate",
+    "verify": "https://www.credly.com/badges/0a29ef8f-3456-49f6-9efd-95d20de84e39/public_url",
+    "img": "https://res.cloudinary.com/dnye0gigw/image/upload/f_auto,q_auto,w_600,c_limit/v1782276549/google-cybersecurity-professional-certificate-v-2_wxsbfw.png"
+  },
+  {
+    "title": "Play It Safe: Manage Security Risks",
+    "issuer": "Google",
+    "date": "Mar 2026",
+    "verify": "https://coursera.org/verify/6B5SAX66B155",
+    "img": "images/play-it-safe-manage-security-risks.svg",
+    "kind": "Course certificate"
+  },
+  {
+    "title": "Put It to Work: Prepare for Cybersecurity Jobs",
+    "issuer": "Google",
+    "date": "Jun 2026",
+    "verify": "https://coursera.org/verify/R54TA5D29UFL",
+    "img": "images/put-it-to-work-prepare-for-cybersecurity-jobs.svg",
+    "kind": "Course certificate"
+  },
+  {
+    "title": "Sound the Alarm: Detection and Response",
+    "issuer": "Google",
+    "date": "Jun 2026",
+    "verify": "https://coursera.org/verify/NFCZ6A330Y4P",
+    "img": "images/sound-the-alarm-detection-and-response.svg",
+    "kind": "Course certificate"
+  },
+  {
+    "title": "Tools of the Trade: Linux and SQL",
+    "issuer": "Google",
+    "date": "Apr 2026",
+    "verify": "https://coursera.org/verify/ULJAELPPYCFC",
+    "img": "images/tools-of-the-trade-linux-and-sql.svg",
+    "kind": "Course certificate"
+  },
+  {
+    "title": "Delivering Quality Work with Agility",
+    "issuer": "IBM",
+    "date": "Jan 2026",
+    "verify": "https://coursera.org/verify/KAJVII0EZU8J",
+    "img": "images/delivering-quality-work-with-agility.svg",
+    "kind": "Course certificate"
+  },
+  {
+    "title": "Introduction to Front-End Development",
+    "issuer": "Meta",
+    "date": "Jul 2025",
+    "verify": "https://coursera.org/verify/BSCP1B2EP78I",
+    "img": "images/introduction-to-front-end-development.svg",
+    "kind": "Course certificate"
+  },
+  {
+    "title": "Programming with JavaScript",
+    "issuer": "Meta",
+    "date": "Dec 2025",
+    "verify": "https://coursera.org/verify/X2FAPH0GMCYB",
+    "img": "images/programming-with-javascript.svg",
+    "kind": "Course certificate"
+  },
+  {
+    "title": "AWS Security and Cost Management Concepts",
+    "issuer": "DataCamp",
+    "date": "Nov 2025",
+    "verify": "",
+    "img": "images/aws-security-and-cost-management-concepts.svg",
+    "kind": "Course certificate"
+  },
+  {
+    "title": "Introduction to Git",
+    "issuer": "DataCamp",
+    "date": "Mar 2026",
+    "verify": "https://www.datacamp.com/completed/statement-of-accomplishment/course/74c598de78a0536dc4fc35ddeb2d512203f3c2a6",
+    "img": "images/introduction-to-git.svg",
+    "kind": "Course certificate"
+  },
+  {
+    "title": "Working with Hugging Face",
+    "issuer": "DataCamp",
+    "date": "Feb 2026",
+    "verify": "https://www.datacamp.com/completed/statement-of-accomplishment/course/a1acbfd19378c99e98be66ba1179665a8f962956",
+    "img": "images/working-with-hugging-face.svg",
+    "kind": "Course certificate"
+  },
+  {
+    "title": "Working with Llama 3",
+    "issuer": "DataCamp",
+    "date": "Feb 2026",
+    "verify": "https://www.datacamp.com/completed/statement-of-accomplishment/course/815f10e4d5f6a9b1ce0e77f6a3907bfcbba44092",
+    "img": "images/working-with-llama-3.svg",
+    "kind": "Course certificate"
+  },
+  {
+    "title": "Introduction to Jupyter",
+    "issuer": "365 Data Science",
+    "date": "2024",
+    "verify": "https://learn.365datascience.com/c/a4d6354547/",
+    "img": "images/introduction-to-jupyter.svg",
+    "kind": "Course certificate"
+  },
+  {
+    "title": "Introduction to Python",
+    "issuer": "365 Data Science",
+    "date": "Nov 2025",
+    "verify": "https://learn.365datascience.com/c/b0e4a331c4/",
+    "img": "images/introduction-to-python.svg",
+    "kind": "Course certificate"
+  }
+]
