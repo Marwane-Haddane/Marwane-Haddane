@@ -1,74 +1,79 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4da6ff,100:ff0000&height=100&section=header" width="150%" height="120"  />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"><img src="assets/header-dark.svg" width="100%" alt="Marwane Haddane — Cybersecurity, AI and software"></picture>
 
+<p align="center"><a href="https://marwane-haddane.web.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/marwane-haddane/">LinkedIn</a> · <a href="mailto:marwanehaddane5@gmail.com">Email</a></p>
 
-# 👋 Welecome: 
-<img src="https://readme-typing-svg.herokuapp.com/?size=30&color=4da6ff&lines=Hii;I+am+Marwane+Haddane;A+Cybersecurity+Student" />
+### About
 
+I’m **Marwane Haddane**, a fourth-year **Cybersecurity and Digital Development** student at **ENSA Fès** (Class of 2028). I build security tools, AI prototypes, web and mobile applications, and connected systems.
 
-# 💫 About Me:
-Cybersecurity student passionate about ethical hacking, automation, and robotics.
-Exploring computer vision, game and web development while building strong foundations in security and systems
+My interests span ethical hacking, workflow automation, computer vision, and robotics. I’m **President of RoboGenius**, **Founder & Lead Organizer of GDGoC ENSAF**, and involved in **External Affairs at SECOPS**.
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=ff0000&lines=Cybersecurity+Student;Ethical+Hacking+%26+CTF+Player;Automation+%26+AI+Agents;Robotics+%26+Computer+Vision;Web+%26+Game+Development" />
+**Seeking an international research internship in cybersecurity or AI for Summer 2027.**
 
-# 🚀 Check This Out
-<div align="center">
-┌─────────────────────────────────┐
-│        🟢 LIVE PROJECTS         │
-└─────────────────────────────────┘
-<br><br>
-<a href="https://robogenius.dev"> <img src="https://img.shields.io/badge/🤖%20ROBOGENIUS%20WEBSITE-4DA6FF?style=for-the-badge" /> </a>
+### Education & community
 
-<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/community-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/community-light.svg"><img src="assets/community-dark.svg" width="100%" alt="ENSA Fès, RoboGenius, GDGoC ENSAF and SECOPS"></picture>
 
-<a href="https://labelle-maison.web.app/"> <img src="https://img.shields.io/badge/🏠%20LA%20BELLE%20MAISON%20WEBSITE-FF0000?style=for-the-badge" /> </a> 
+**Recognition:** 1st Prize · GDG OpportunAI · Casablanca, 2025.
 
+### Selected projects
 
-
-
-<br></div>
-
-## 🌐 Let's Connect:
-<p align="left">
-<a href="https://www.linkedin.com/in/marwane-haddane/" target="blank"><img  src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/marwane_haddane/" target="blank"><img  src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<p>
+<a href="https://github.com/Marwane-Haddane/WeSecure"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-wesecure-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-wesecure-light.svg"><img src="assets/card-wesecure-dark.svg" width="49%" alt="WeSecure"></picture></a>
+<a href="https://github.com/Marwane-Haddane/memoria"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-memoria-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-memoria-light.svg"><img src="assets/card-memoria-dark.svg" width="49%" alt="Memoria"></picture></a>
+<a href="https://github.com/Marwane-Haddane/VART"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-vart-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-vart-light.svg"><img src="assets/card-vart-dark.svg" width="49%" alt="VART"></picture></a>
+<a href="https://marwane-haddane.web.app/project/10/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-mysoil-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-mysoil-light.svg"><img src="assets/card-mysoil-dark.svg" width="49%" alt="MySoil / Turbati"></picture></a>
+<a href="https://marwane-haddane.web.app/project/11/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-rihla-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-rihla-light.svg"><img src="assets/card-rihla-dark.svg" width="49%" alt="RIHLA"></picture></a>
+<a href="https://bara-salfa-by-marwane.web.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-barasalfa-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-barasalfa-light.svg"><img src="assets/card-barasalfa-dark.svg" width="49%" alt="BaraSalfa"></picture></a>
 </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+### Apps & live websites
 
+| Project | Access |
+|---|---|
+| BaraSalfa | [Play in your browser](https://bara-salfa-by-marwane.web.app/) |
+| Memoria | [Explore the assistive AI prototype](https://memoria-9eac1.web.app/) |
+| La Belle Maison | [Visit the furniture storefront](https://labelle-maison.web.app/) |
+| RoboGenius | [Explore the engineering club](https://robogenius.vercel.app/) |
+| MySoil / Turbati | [Mobile prototype details](https://marwane-haddane.web.app/project/10/) · No public APK listed |
+| RIHLA | [Android prototype details](https://marwane-haddane.web.app/project/11/) · No public APK listed |
 
-## 📈 GitHub Stats
+### Stack
 
-<div>
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Marwane-Haddane&theme=react" width="51%" />
-  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=Marwane-Haddane&layout=compact&show_icons=true&theme=react" alt="Marwane github-readme-stats" width="48%" />
-</div>
-<br />
-<div>
-  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=Marwane-Haddane&layout=compact&theme=react" alt="Marwane github readme top-langs" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Marwane-Haddane&theme=merko" alt="Marwane github readme activity graph" width="60%" />
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg"><img src="assets/stack-dark.svg" width="100%" alt="Tech stack: languages, web, mobile, AI and embedded systems"></picture>
 
-<br />
+### Certifications
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/certifications-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/certifications-light.svg"><img src="assets/certifications-dark.svg" width="100%" alt="CS50x and Google Cybersecurity — my credentials"></picture>
 
-<!-- GIFs Section aligned to the right -->
-<div >
+<p>
+<a href="https://certificates.cs50.io/9b8fa55f-f037-4ffe-95af-85d90b1bb996.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cert-cs50-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/cert-cs50-light.svg"><img src="assets/cert-cs50-dark.svg" width="49%" alt="CS50x — view credential"></picture></a>
+<a href="https://www.credly.com/badges/0a29ef8f-3456-49f6-9efd-95d20de84e39/public_url"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cert-google-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/cert-google-light.svg"><img src="assets/cert-google-dark.svg" width="49%" alt="Google Cybersecurity — view credential"></picture></a>
+</p>
 
-  <img height=Full src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJmdGZydnA2cWh5OXBzdWFqbWhqcW5rY25scmx4ZTY1M3J6c3QxcSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hsMx3HglDGF5BNOFtm/giphy.gif" width="30%" />
+<details>
+<summary>Official certificates and verification links</summary>
 
+| Credential | Issuer | Verification |
+|---|---|---|
+| CS50x: Introduction to Computer Science | Harvard University | [View credential](https://certificates.cs50.io/9b8fa55f-f037-4ffe-95af-85d90b1bb996.pdf) |
+| Google Cybersecurity: Professional Certificate | Google | [View credential](https://www.credly.com/badges/0a29ef8f-3456-49f6-9efd-95d20de84e39/public_url) |
 
-  <img height=Full src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3AxZXAzZHl4dWsyY2FyZ3owYzF6dHNvYW91dGM5ZHE2NzEyc2FhMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="30%" />
+</details>
 
-  
-  <img height=Full src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dnajRkZ3JlMHBwamN3eXhtMTFoN2QxM3ZpOTNjdmE0MGZqdW5raiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30%" />
+[Browse certificate gallery](certificates/README.md)
 
-</div>
+### Activity
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Marwane-Haddane&amp;theme=github-dark&amp;hide_border=true" width="100%" alt="Marwane Haddane GitHub contribution activity">
 
+<details>
+<summary>Coding practice · LeetCode</summary>
 
-# 🧠 Leet code :
-<img src="https://leetcard.jacoblin.cool/T7N8a632iD?theme=dark&font=Fira%20Code" />
+<img src="https://leetcard.jacoblin.cool/T7N8a632iD?theme=dark&amp;font=Fira%20Code" alt="Marwane’s LeetCode activity">
 
+</details>
 
+---
+
+<p align="center"><sub>Fès, Morocco · <a href="mailto:marwanehaddane5@gmail.com">marwanehaddane5@gmail.com</a></sub></p>
