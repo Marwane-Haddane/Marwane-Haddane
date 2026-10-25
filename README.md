@@ -35,9 +35,9 @@ My interests span ethical hacking, workflow automation, computer vision, and rob
 
 ### Certifications
 
-<a href="certificates/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/certifications-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/certifications-light.svg"><img src="assets/certifications-dark.svg" width="100%" alt="20 certificates earned by Marwane Haddane"></picture></a>
+<a href="https://marwane-haddane.github.io/Marwane-Haddane/certificates/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cert-wall-v2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/cert-wall-v2-light.svg"><img src="assets/cert-wall-v2-dark.svg" width="100%" alt="20 certificates earned by Marwane Haddane"></picture></a>
 
-<p align="center"><a href="certificates/README.md"><b>Browse my certificate wall ↗</b></a></p>
+<p align="center"><a href="https://marwane-haddane.github.io/Marwane-Haddane/certificates/"><b>Open my interactive certificate wall ↗</b></a></p>
 
 <details>
 <summary>Details and verification links</summary>
