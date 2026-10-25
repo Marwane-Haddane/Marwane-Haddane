@@ -16,27 +16,18 @@ My interests span ethical hacking, workflow automation, computer vision, and rob
 
 **Recognition:** 1st Prize · GDG OpportunAI · Casablanca, 2025.
 
-### Selected projects
+### Download my apps
 
-<p>
-<a href="https://github.com/Marwane-Haddane/WeSecure"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-wesecure-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-wesecure-light.svg"><img src="assets/card-wesecure-dark.svg" width="49%" alt="WeSecure"></picture></a>
-<a href="https://github.com/Marwane-Haddane/memoria"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-memoria-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-memoria-light.svg"><img src="assets/card-memoria-dark.svg" width="49%" alt="Memoria"></picture></a>
-<a href="https://github.com/Marwane-Haddane/VART"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-vart-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-vart-light.svg"><img src="assets/card-vart-dark.svg" width="49%" alt="VART"></picture></a>
-<a href="https://marwane-haddane.web.app/project/10/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-mysoil-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-mysoil-light.svg"><img src="assets/card-mysoil-dark.svg" width="49%" alt="MySoil / Turbati"></picture></a>
-<a href="https://marwane-haddane.web.app/project/11/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-rihla-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-rihla-light.svg"><img src="assets/card-rihla-dark.svg" width="49%" alt="RIHLA"></picture></a>
-<a href="https://bara-salfa-by-marwane.web.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-barasalfa-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-barasalfa-light.svg"><img src="assets/card-barasalfa-dark.svg" width="49%" alt="BaraSalfa"></picture></a>
-</p>
+| App | What it does | Android | Windows |
+|---|---|---|---|
+| **SlideLink** | Phone trackpad, presentation remote, and screen preview | [Download APK](https://github.com/Marwane-Haddane/Marwane-Haddane/raw/refs/heads/main/downloads/SlideLink-Android-0.3.0.apk) | Public installer upload pending |
+| **Orbit** | Phone companion for a Windows PC | [Download APK](https://github.com/Marwane-Haddane/Marwane-Haddane/raw/refs/heads/main/downloads/Orbit-Android.apk) | Public portable build upload pending |
+| **Rihlaty / RIHLA** | Morocco travel, trip planning, and native maps | Public APK upload pending | — |
+| **BaraSalfa** | Arabic social-deduction party game | APK build not found yet | — |
+| **La Belle Maison / Furniture** | Furniture browsing and ordering prototype | Public APK upload pending | — |
+| **MySoil / Turbati** | Parcel mapping and agricultural information | Public APK upload pending | — |
 
-### Apps & live websites
-
-| Project | Access |
-|---|---|
-| BaraSalfa | [Play in your browser](https://bara-salfa-by-marwane.web.app/) |
-| Memoria | [Explore the assistive AI prototype](https://memoria-9eac1.web.app/) |
-| La Belle Maison | [Visit the furniture storefront](https://labelle-maison.web.app/) |
-| RoboGenius | [Explore the engineering club](https://robogenius.vercel.app/) |
-| MySoil / Turbati | [Mobile prototype details](https://marwane-haddane.web.app/project/10/) · No public APK listed |
-| RIHLA | [Android prototype details](https://marwane-haddane.web.app/project/11/) · No public APK listed |
+[Download checksums](downloads/SHA256SUMS.txt). These are development builds; SlideLink and Orbit use a companion desktop app for their PC features.
 
 ### Stack
 
@@ -44,28 +35,58 @@ My interests span ethical hacking, workflow automation, computer vision, and rob
 
 ### Certifications
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/certifications-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/certifications-light.svg"><img src="assets/certifications-dark.svg" width="100%" alt="CS50x and Google Cybersecurity — my credentials"></picture>
+<a href="certificates/README.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/certifications-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/certifications-light.svg"><img src="assets/certifications-dark.svg" width="100%" alt="20 certificates earned by Marwane Haddane"></picture></a>
 
-<p>
-<a href="https://certificates.cs50.io/9b8fa55f-f037-4ffe-95af-85d90b1bb996.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cert-cs50-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/cert-cs50-light.svg"><img src="assets/cert-cs50-dark.svg" width="49%" alt="CS50x — view credential"></picture></a>
-<a href="https://www.credly.com/badges/0a29ef8f-3456-49f6-9efd-95d20de84e39/public_url"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cert-google-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/cert-google-light.svg"><img src="assets/cert-google-dark.svg" width="49%" alt="Google Cybersecurity — view credential"></picture></a>
-</p>
+<p align="center"><a href="certificates/README.md"><b>Browse my certificate wall ↗</b></a></p>
 
 <details>
-<summary>Official certificates and verification links</summary>
+<summary>Details and verification links</summary>
 
-| Credential | Issuer | Verification |
-|---|---|---|
-| CS50x: Introduction to Computer Science | Harvard University | [View credential](https://certificates.cs50.io/9b8fa55f-f037-4ffe-95af-85d90b1bb996.pdf) |
-| Google Cybersecurity: Professional Certificate | Google | [View credential](https://www.credly.com/badges/0a29ef8f-3456-49f6-9efd-95d20de84e39/public_url) |
+| Certificate | Issuer | Date | Credential |
+|---|---|---|---|
+| CS50x: Introduction to Computer Science | Harvard University | 2026 | [View](https://cs50.harvard.edu/certificates/9b8fa55f-f037-4ffe-95af-85d90b1bb996) |
+| Accelerate Your Job Search with AI | Google | Jun 2026 | [View](https://coursera.org/verify/GGCU2TIPXQVL) |
+| Assets, Threats, and Vulnerabilities | Google | Jun 2026 | [View](https://coursera.org/verify/SEBED6F4BU1Z) |
+| Automate Cybersecurity Tasks with Python | Google | Jun 2026 | [View](https://coursera.org/verify/5SF0V47SO2OB) |
+| Connect and Protect: Networks and Network Security | Google | Apr 2026 | [View](https://coursera.org/verify/5P15IVIYLN9M) |
+| Foundations of Cybersecurity | Google | Feb 2026 | [View](https://coursera.org/verify/R4HUDRWYTM16) |
+| Google Cybersecurity Professional Certificate | Google | 2026 | [View](https://www.credly.com/badges/0a29ef8f-3456-49f6-9efd-95d20de84e39/public_url) |
+| Play It Safe: Manage Security Risks | Google | Mar 2026 | [View](https://coursera.org/verify/6B5SAX66B155) |
+| Put It to Work: Prepare for Cybersecurity Jobs | Google | Jun 2026 | [View](https://coursera.org/verify/R54TA5D29UFL) |
+| Sound the Alarm: Detection and Response | Google | Jun 2026 | [View](https://coursera.org/verify/NFCZ6A330Y4P) |
+| Tools of the Trade: Linux and SQL | Google | Apr 2026 | [View](https://coursera.org/verify/ULJAELPPYCFC) |
+| Delivering Quality Work with Agility | IBM | Jan 2026 | [View](https://coursera.org/verify/KAJVII0EZU8J) |
+| Introduction to Front-End Development | Meta | Jul 2025 | [View](https://coursera.org/verify/BSCP1B2EP78I) |
+| Programming with JavaScript | Meta | Dec 2025 | [View](https://coursera.org/verify/X2FAPH0GMCYB) |
+| AWS Security and Cost Management Concepts | DataCamp | Nov 2025 | [View](certificates/images/aws-security-and-cost-management-concepts.svg) |
+| Introduction to Git | DataCamp | Mar 2026 | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/74c598de78a0536dc4fc35ddeb2d512203f3c2a6) |
+| Working with Hugging Face | DataCamp | Feb 2026 | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/a1acbfd19378c99e98be66ba1179665a8f962956) |
+| Working with Llama 3 | DataCamp | Feb 2026 | [View](https://www.datacamp.com/completed/statement-of-accomplishment/course/815f10e4d5f6a9b1ce0e77f6a3907bfcbba44092) |
+| Introduction to Jupyter | 365 Data Science | 2024 | [View](https://learn.365datascience.com/c/a4d6354547/) |
+| Introduction to Python | 365 Data Science | Nov 2025 | [View](https://learn.365datascience.com/c/b0e4a331c4/) |
 
 </details>
 
-[Browse certificate gallery](certificates/README.md)
+## 🌐 Let's Connect:
 
-### Activity
+<p align="left">
+  <a href="https://www.linkedin.com/in/marwane-haddane/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" /></a>
+  <a href="https://www.instagram.com/marwane_haddane/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" /></a>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Marwane-Haddane&amp;theme=github-dark&amp;hide_border=true" width="100%" alt="Marwane Haddane GitHub contribution activity">
+## 📈 GitHub Stats
+
+<div>
+  <a href="https://github.com/Marwane-Haddane?tab=overview"><img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Marwane-Haddane&amp;theme=react" alt="Marwane's GitHub contribution streak" width="51%" /></a>
+  <a href="https://github.com/Marwane-Haddane?tab=overview"><img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=Marwane-Haddane&amp;layout=compact&amp;show_icons=true&amp;theme=react" alt="Marwane's GitHub stats" width="48%" /></a>
+</div>
+<br />
+<div>
+  <a href="https://github.com/Marwane-Haddane?tab=repositories"><img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=Marwane-Haddane&amp;layout=compact&amp;theme=react" alt="Marwane's most-used GitHub languages" width="39%" /></a>
+  <a href="https://github.com/Marwane-Haddane?tab=overview"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Marwane-Haddane&amp;theme=merko" alt="Marwane's GitHub contribution activity graph" width="60%" /></a>
+</div>
+
+[View contributions on GitHub](https://github.com/Marwane-Haddane?tab=overview)
 
 <details>
 <summary>Coding practice · LeetCode</summary>
