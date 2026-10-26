@@ -20,14 +20,17 @@ My interests span ethical hacking, workflow automation, computer vision, and rob
 
 | App | What it does | Android | Windows |
 |---|---|---|---|
-| **SlideLink** | Phone trackpad, presentation remote, and screen preview | [Download APK](https://github.com/Marwane-Haddane/Marwane-Haddane/raw/refs/heads/main/downloads/SlideLink-Android-0.3.0.apk) | Public installer upload pending |
-| **Orbit** | Phone companion for a Windows PC | [Download APK](https://github.com/Marwane-Haddane/Marwane-Haddane/raw/refs/heads/main/downloads/Orbit-Android.apk) | Public portable build upload pending |
-| **Rihlaty / RIHLA** | Morocco travel, trip planning, and native maps | Public APK upload pending | — |
+| **[SlideLink](https://github.com/Marwane-Haddane/slidelink)** | Phone trackpad, presentation remote, and screen preview | [Download APK](https://github.com/Marwane-Haddane/slidelink/releases/download/v0.3.0/SlideLink-Android-0.3.0.apk) | [Download installer](https://github.com/Marwane-Haddane/slidelink/releases/download/v0.3.0/SlideLink-Windows-Setup-0.3.0.exe) |
+| **[Orbit](https://github.com/Marwane-Haddane/orbit)** | Phone companion for a Windows PC | [Download APK](https://github.com/Marwane-Haddane/orbit/releases/download/v0.1.2/Orbit-Android.apk) | [Download Windows ZIP](https://github.com/Marwane-Haddane/orbit/releases/download/v0.1.2/Orbit-Windows-x64.zip) |
+| **[Moru](https://github.com/Marwane-Haddane/moru-desktop)** | AI desktop companion for Windows | — | [Download Windows ZIP](https://github.com/Marwane-Haddane/moru-desktop/releases/download/v0.2.0-preview.1/Moru-0.2.0-win-x64.zip) |
+| **[Rihlaty / RIHLA](https://github.com/Marwane-Haddane/rihla-app)** | Morocco travel, trip planning, and native maps | APK upload pending | — |
 | **BaraSalfa** | Arabic social-deduction party game | APK build not found yet | — |
-| **La Belle Maison / Furniture** | Furniture browsing and ordering prototype | Public APK upload pending | — |
-| **MySoil / Turbati** | Parcel mapping and agricultural information | Public APK upload pending | — |
+| **[La Belle Maison / Furniture](https://github.com/Marwane-Haddane/furniture-mobile-app)** | Furniture browsing and ordering prototype | APK upload pending | — |
+| **[MySoil / Turbati](https://github.com/Marwane-Haddane/mysoil-app)** | Parcel mapping and agricultural information | APK upload pending | — |
 
-[Download checksums](downloads/SHA256SUMS.txt). These are development builds; SlideLink and Orbit use a companion desktop app for their PC features.
+**Latest updates:** [SlideLink](https://github.com/Marwane-Haddane/slidelink/releases) · [Orbit](https://github.com/Marwane-Haddane/orbit/releases) · [Moru](https://github.com/Marwane-Haddane/moru-desktop/releases) · [RIHLA](https://github.com/Marwane-Haddane/rihla-app/releases) · [Furniture](https://github.com/Marwane-Haddane/furniture-mobile-app/releases) · [MySoil](https://github.com/Marwane-Haddane/mysoil-app/releases).
+
+Downloads are hosted in each app's own repository. Private repository downloads require GitHub access. These are development builds; SlideLink and Orbit use a companion desktop app for their PC features.
 
 ### Stack
 
