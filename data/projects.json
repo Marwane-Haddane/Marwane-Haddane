@@ -1,0 +1,167 @@
+[
+  {
+    "id": "robogenius",
+    "title": "RoboGenius",
+    "category": "COMMUNITY · WEB & ROBOTICS",
+    "description": "Club platform for events, projects, a robotics catalogue and certificate verification.",
+    "stack": "Next.js · TypeScript · Robotics",
+    "live": "https://robogenius.dev/",
+    "repo": "RoboGenius",
+    "extraRepo": "Robotics-X-RoboGenius"
+  },
+  {
+    "id": "wesecure",
+    "title": "WeSecure",
+    "category": "CYBERSECURITY · FULL STACK",
+    "description": "Security workflows with web checks, AI-assisted email triage and cryptography tools.",
+    "stack": "Python · Flask · n8n · LLaMA",
+    "live": null,
+    "repo": "WeSecure"
+  },
+  {
+    "id": "feedia",
+    "title": "Feedia / HackAI",
+    "category": "AI · AGRICULTURE",
+    "description": "Livestock nutrition assistant using document retrieval and multilingual farmer interfaces.",
+    "stack": "RAG · AI · Darija · Tamazight",
+    "live": null,
+    "repo": "hackai"
+  },
+  {
+    "id": "fleetsense",
+    "title": "FleetSense",
+    "category": "COLLABORATIVE · AI PROTOTYPE",
+    "description": "Fleet-maintenance copilot exploring driver reports, fault codes and AI-assisted responses.",
+    "stack": "Python · FastAPI · React · AI",
+    "live": null,
+    "repo": "HACKTOBER"
+  },
+  {
+    "id": "drowsiness",
+    "title": "Driver Drowsiness Detection",
+    "category": "COMPUTER VISION · SAFETY",
+    "description": "Computer-vision project exploring visual signs of driver fatigue and drowsiness.",
+    "stack": "Python · Computer vision",
+    "live": null,
+    "repo": "driver-drowsiness-detection"
+  },
+  {
+    "id": "memoria",
+    "title": "Memoria",
+    "category": "AI · ASSISTIVE PROTOTYPE",
+    "description": "Local AI, computer vision and a monitoring interface for an assistive companion prototype.",
+    "stack": "Ollama · OpenCV · React · Firebase",
+    "live": "https://memoria-9eac1.web.app/",
+    "repo": "memoria"
+  },
+  {
+    "id": "vart",
+    "title": "VART",
+    "category": "EMBEDDED · VOICE INTERACTION",
+    "description": "Voice commands, sensor telemetry and physical controls connected through an ESP32 console.",
+    "stack": "ESP32 · FastAPI · WebSockets",
+    "live": null,
+    "repo": "vart"
+  },
+  {
+    "id": "smarthome",
+    "title": "Smart Eco Home",
+    "category": "IOT · LIVE DASHBOARD",
+    "description": "Connected home dashboard for sensor readings, environmental alerts and device control.",
+    "stack": "ESP32 · Firebase · Chart.js",
+    "live": "https://maison-intelligent-7b24c.web.app/",
+    "repo": "SmartHome"
+  },
+  {
+    "id": "slidelink",
+    "title": "SlideLink",
+    "category": "ANDROID & WINDOWS",
+    "description": "Wireless pointer and presentation control, with a screen preview enabled by the PC owner.",
+    "stack": "Java · Python · FastAPI",
+    "live": null,
+    "repo": "slidelink"
+  },
+  {
+    "id": "orbit",
+    "title": "Orbit",
+    "category": "ANDROID & WINDOWS",
+    "description": "Phone companion with touchpad, app launching, media controls and capture tools.",
+    "stack": "React · Node.js · .NET",
+    "live": null,
+    "repo": "orbit"
+  },
+  {
+    "id": "moru",
+    "title": "Moru",
+    "category": "DESKTOP · AI PROTOTYPE",
+    "description": "Windows AI companion for supervised browser tasks and collaborating agents.",
+    "stack": "Electron · Node.js · LLMs",
+    "live": null,
+    "repo": "moru-desktop"
+  },
+  {
+    "id": "mysoil",
+    "title": "MySoil / Turbati",
+    "category": "ANDROID · AGRICULTURE",
+    "description": "Multilingual farming prototype with parcel mapping, agricultural views and an assistant.",
+    "stack": "Flutter · Riverpod · Maps",
+    "live": null,
+    "repo": "mysoil-app"
+  },
+  {
+    "id": "rihla",
+    "title": "RIHLA",
+    "category": "ANDROID · MOROCCO TRAVEL",
+    "description": "Cultural discovery, local trip planning and native Mapbox navigation in a mobile prototype.",
+    "stack": "Flutter · Mapbox · Dart",
+    "live": null,
+    "repo": "rihla-app"
+  },
+  {
+    "id": "barasalfa",
+    "title": "BaraSalfa",
+    "category": "WEB & ANDROID PROTOTYPE",
+    "description": "Arabic social-deduction game with a live browser edition and Flutter room and voice flows.",
+    "stack": "React · Flutter · Firebase · Agora",
+    "live": "https://bara-salfa-by-marwane.web.app/",
+    "repo": "barasalfa-app",
+    "extraRepo": "barasalfa-website"
+  },
+  {
+    "id": "furniture",
+    "title": "La Belle Maison",
+    "category": "WEB & ANDROID",
+    "description": "Furniture storefront and Flutter companion, with catalogue exploration and local AI experiments.",
+    "stack": "React · Flutter · Firebase · ONNX",
+    "live": "https://labelle-maison.web.app/",
+    "repo": "Furniture",
+    "extraRepo": "furniture-mobile-app"
+  },
+  {
+    "id": "su1",
+    "title": "SU1 Travel Assistant",
+    "category": "WEB · TRAVEL PROTOTYPE",
+    "description": "Earlier travel web prototype exploring cultural translation, itinerary planning and AI assistance.",
+    "stack": "React · TypeScript · Supabase",
+    "live": null,
+    "repo": "su1-tarvel-assistant"
+  },
+  {
+    "id": "habit",
+    "title": "Habit Tracker",
+    "category": "WEB · PRODUCTIVITY",
+    "description": "Weekly habit checkmarks, streaks and week navigation with local browser persistence.",
+    "stack": "React · localStorage · Firebase Hosting",
+    "live": "https://habit-tracker4marwane.web.app/",
+    "repo": "habit-tracker"
+  },
+  {
+    "id": "gdg",
+    "title": "GDGoC ENSA Fès",
+    "category": "COMMUNITY · WEBSITE",
+    "description": "Website for the Google Developer Group on Campus community at ENSA Fès.",
+    "stack": "Community · Web",
+    "live": "https://gdgensaf.web.app/",
+    "repo": null
+  }
+]

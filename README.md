@@ -24,7 +24,7 @@ My interests span ethical hacking, workflow automation, computer vision, and rob
 | **[Orbit](https://github.com/Marwane-Haddane/orbit)** | Phone companion for a Windows PC | [Download APK](https://github.com/Marwane-Haddane/orbit/releases/download/v0.1.2/Orbit-Android.apk) | [Download Windows ZIP](https://github.com/Marwane-Haddane/orbit/releases/download/v0.1.2/Orbit-Windows-x64.zip) |
 | **[Moru](https://github.com/Marwane-Haddane/moru-desktop)** | AI desktop companion for Windows | — | [Download Windows ZIP](https://github.com/Marwane-Haddane/moru-desktop/releases/download/v0.2.0-preview.1/Moru-0.2.0-win-x64.zip) |
 | **[Rihlaty / RIHLA](https://github.com/Marwane-Haddane/rihla-app)** | Morocco travel, trip planning, and native maps | [Download APK](https://github.com/Marwane-Haddane/rihla-app/releases/latest/download/RIHLA-Android.apk) | — |
-| **BaraSalfa** | Arabic social-deduction party game | APK build not found yet | — |
+| **[BaraSalfa](https://github.com/Marwane-Haddane/barasalfa-app)** | Arabic social-deduction party game | [Android source](https://github.com/Marwane-Haddane/barasalfa-app) · APK not released | [Play web](https://bara-salfa-by-marwane.web.app/) |
 | **[La Belle Maison / Furniture](https://github.com/Marwane-Haddane/furniture-mobile-app)** | Furniture browsing and ordering prototype | [Download APK](https://github.com/Marwane-Haddane/furniture-mobile-app/releases/latest/download/Furniture-Android.apk) | — |
 | **[MySoil / Turbati](https://github.com/Marwane-Haddane/mysoil-app)** | Parcel mapping and agricultural information | [Download APK (arm64)](https://github.com/Marwane-Haddane/mysoil-app/releases/latest/download/MySoil-Android-arm64.apk) | — |
 
@@ -86,8 +86,11 @@ Downloads are hosted in each app's own repository. Private repository downloads 
 <br />
 <div>
   <a href="https://github.com/Marwane-Haddane?tab=repositories"><img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=Marwane-Haddane&amp;layout=compact&amp;theme=react" alt="Marwane's most-used GitHub languages" width="39%" /></a>
-  <a href="https://github.com/Marwane-Haddane?tab=overview"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Marwane-Haddane&amp;theme=merko" alt="Marwane's GitHub contribution activity graph" width="60%" /></a>
 </div>
+
+### Activity
+
+<a href="https://github.com/Marwane-Haddane?tab=overview"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-v2-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/activity-v2-light.svg"><img src="assets/activity-v2-light.svg" alt="Marwane Haddane contribution calendar and streak statistics, snapshot 26 October 2026" width="100%"></picture></a>
 
 [View contributions on GitHub](https://github.com/Marwane-Haddane?tab=overview)
 
@@ -97,6 +100,50 @@ Downloads are hosted in each app's own repository. Private repository downloads 
 <img src="https://leetcard.jacoblin.cool/T7N8a632iD?theme=dark&amp;font=Fira%20Code" alt="Marwane’s LeetCode activity">
 
 </details>
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://robogenius.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-robogenius-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-robogenius-light.svg"><img src="assets/project-robogenius-light.svg" alt="RoboGenius" width="100%"></picture></a><br/><a href="https://robogenius.dev/">Live website ↗</a> · <a href="https://github.com/Marwane-Haddane/RoboGenius">Source code</a> · <a href="https://github.com/Marwane-Haddane/Robotics-X-RoboGenius">Robotics code</a></td>
+<td width="50%" valign="top"><a href="https://github.com/Marwane-Haddane/WeSecure"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-wesecure-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-wesecure-light.svg"><img src="assets/project-wesecure-light.svg" alt="WeSecure" width="100%"></picture></a><br/><a href="https://github.com/Marwane-Haddane/WeSecure">Source code</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Marwane-Haddane/hackai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-feedia-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-feedia-light.svg"><img src="assets/project-feedia-light.svg" alt="Feedia / HackAI" width="100%"></picture></a><br/><a href="https://github.com/Marwane-Haddane/hackai">Source code</a></td>
+<td width="50%" valign="top"><a href="https://github.com/Marwane-Haddane/HACKTOBER"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-fleetsense-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-fleetsense-light.svg"><img src="assets/project-fleetsense-light.svg" alt="FleetSense" width="100%"></picture></a><br/><a href="https://github.com/Marwane-Haddane/HACKTOBER">Source code</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Marwane-Haddane/driver-drowsiness-detection"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-drowsiness-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-drowsiness-light.svg"><img src="assets/project-drowsiness-light.svg" alt="Driver Drowsiness Detection" width="100%"></picture></a><br/><a href="https://github.com/Marwane-Haddane/driver-drowsiness-detection">Source code</a></td>
+<td width="50%" valign="top"><a href="https://memoria-9eac1.web.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-memoria-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-memoria-light.svg"><img src="assets/project-memoria-light.svg" alt="Memoria" width="100%"></picture></a><br/><a href="https://memoria-9eac1.web.app/">Live website ↗</a> · <a href="https://github.com/Marwane-Haddane/memoria">Source code</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Marwane-Haddane/vart"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-vart-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-vart-light.svg"><img src="assets/project-vart-light.svg" alt="VART" width="100%"></picture></a><br/><a href="https://github.com/Marwane-Haddane/vart">Source code</a></td>
+<td width="50%" valign="top"><a href="https://maison-intelligent-7b24c.web.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-smarthome-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-smarthome-light.svg"><img src="assets/project-smarthome-light.svg" alt="Smart Eco Home" width="100%"></picture></a><br/><a href="https://maison-intelligent-7b24c.web.app/">Live website ↗</a> · <a href="https://github.com/Marwane-Haddane/SmartHome">Source code</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Marwane-Haddane/slidelink"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-slidelink-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-slidelink-light.svg"><img src="assets/project-slidelink-light.svg" alt="SlideLink" width="100%"></picture></a><br/><a href="https://github.com/Marwane-Haddane/slidelink">Source code</a> · <a href="https://github.com/Marwane-Haddane/slidelink/releases">Downloads</a></td>
+<td width="50%" valign="top"><a href="https://github.com/Marwane-Haddane/orbit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-orbit-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-orbit-light.svg"><img src="assets/project-orbit-light.svg" alt="Orbit" width="100%"></picture></a><br/><a href="https://github.com/Marwane-Haddane/orbit">Source code</a> · <a href="https://github.com/Marwane-Haddane/orbit/releases">Downloads</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Marwane-Haddane/moru-desktop"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-moru-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-moru-light.svg"><img src="assets/project-moru-light.svg" alt="Moru" width="100%"></picture></a><br/><a href="https://github.com/Marwane-Haddane/moru-desktop">Source code</a> · <a href="https://github.com/Marwane-Haddane/moru-desktop/releases">Downloads</a></td>
+<td width="50%" valign="top"><a href="https://github.com/Marwane-Haddane/mysoil-app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-mysoil-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-mysoil-light.svg"><img src="assets/project-mysoil-light.svg" alt="MySoil / Turbati" width="100%"></picture></a><br/><a href="https://github.com/Marwane-Haddane/mysoil-app">Source code</a> · <a href="https://github.com/Marwane-Haddane/mysoil-app/releases/latest/download/MySoil-Android-arm64.apk">Android APK</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Marwane-Haddane/rihla-app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-rihla-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-rihla-light.svg"><img src="assets/project-rihla-light.svg" alt="RIHLA" width="100%"></picture></a><br/><a href="https://github.com/Marwane-Haddane/rihla-app">Source code</a> · <a href="https://github.com/Marwane-Haddane/rihla-app/releases/latest/download/RIHLA-Android.apk">Android APK</a></td>
+<td width="50%" valign="top"><a href="https://bara-salfa-by-marwane.web.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-barasalfa-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-barasalfa-light.svg"><img src="assets/project-barasalfa-light.svg" alt="BaraSalfa" width="100%"></picture></a><br/><a href="https://bara-salfa-by-marwane.web.app/">Live website ↗</a> · <a href="https://github.com/Marwane-Haddane/barasalfa-app">Source code</a> · <a href="https://github.com/Marwane-Haddane/barasalfa-website">Web source</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://labelle-maison.web.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-furniture-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-furniture-light.svg"><img src="assets/project-furniture-light.svg" alt="La Belle Maison" width="100%"></picture></a><br/><a href="https://labelle-maison.web.app/">Live website ↗</a> · <a href="https://github.com/Marwane-Haddane/Furniture">Website source</a> · <a href="https://github.com/Marwane-Haddane/furniture-mobile-app">Android source</a> · <a href="https://github.com/Marwane-Haddane/furniture-mobile-app/releases/latest/download/Furniture-Android.apk">Android APK</a></td>
+<td width="50%" valign="top"><a href="https://github.com/Marwane-Haddane/su1-tarvel-assistant"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-su1-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-su1-light.svg"><img src="assets/project-su1-light.svg" alt="SU1 Travel Assistant" width="100%"></picture></a><br/><a href="https://github.com/Marwane-Haddane/su1-tarvel-assistant">Source code</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://habit-tracker4marwane.web.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-habit-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-habit-light.svg"><img src="assets/project-habit-light.svg" alt="Habit Tracker" width="100%"></picture></a><br/><a href="https://habit-tracker4marwane.web.app/">Live website ↗</a> · <a href="https://github.com/Marwane-Haddane/habit-tracker">Source code</a></td>
+<td width="50%" valign="top"><a href="https://gdgensaf.web.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-gdg-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/project-gdg-light.svg"><img src="assets/project-gdg-light.svg" alt="GDGoC ENSA Fès" width="100%"></picture></a><br/><a href="https://gdgensaf.web.app/">Live website ↗</a></td>
+</tr>
+</table>
+
+**More work:** [Shellter Store · live website](https://shellterstore.web.app/) · [Cybersecurity exercises](https://github.com/Marwane-Haddane/CodeAlpha-CyberSec-Projects)
+
 
 ---
 
