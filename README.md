@@ -23,10 +23,10 @@ My interests span ethical hacking, workflow automation, computer vision, and rob
 | **[SlideLink](https://github.com/Marwane-Haddane/slidelink)** | Phone trackpad, presentation remote, and screen preview | [Download APK](https://github.com/Marwane-Haddane/slidelink/releases/download/v0.3.0/SlideLink-Android-0.3.0.apk) | [Download installer](https://github.com/Marwane-Haddane/slidelink/releases/download/v0.3.0/SlideLink-Windows-Setup-0.3.0.exe) |
 | **[Orbit](https://github.com/Marwane-Haddane/orbit)** | Phone companion for a Windows PC | [Download APK](https://github.com/Marwane-Haddane/orbit/releases/download/v0.1.2/Orbit-Android.apk) | [Download Windows ZIP](https://github.com/Marwane-Haddane/orbit/releases/download/v0.1.2/Orbit-Windows-x64.zip) |
 | **[Moru](https://github.com/Marwane-Haddane/moru-desktop)** | AI desktop companion for Windows | — | [Download Windows ZIP](https://github.com/Marwane-Haddane/moru-desktop/releases/download/v0.2.0-preview.1/Moru-0.2.0-win-x64.zip) |
-| **[Rihlaty / RIHLA](https://github.com/Marwane-Haddane/rihla-app)** | Morocco travel, trip planning, and native maps | APK upload pending | — |
+| **[Rihlaty / RIHLA](https://github.com/Marwane-Haddane/rihla-app)** | Morocco travel, trip planning, and native maps | [Download APK](https://github.com/Marwane-Haddane/rihla-app/releases/latest/download/RIHLA-Android.apk) | — |
 | **BaraSalfa** | Arabic social-deduction party game | APK build not found yet | — |
-| **[La Belle Maison / Furniture](https://github.com/Marwane-Haddane/furniture-mobile-app)** | Furniture browsing and ordering prototype | APK upload pending | — |
-| **[MySoil / Turbati](https://github.com/Marwane-Haddane/mysoil-app)** | Parcel mapping and agricultural information | APK upload pending | — |
+| **[La Belle Maison / Furniture](https://github.com/Marwane-Haddane/furniture-mobile-app)** | Furniture browsing and ordering prototype | [Download APK](https://github.com/Marwane-Haddane/furniture-mobile-app/releases/latest/download/Furniture-Android.apk) | — |
+| **[MySoil / Turbati](https://github.com/Marwane-Haddane/mysoil-app)** | Parcel mapping and agricultural information | [Download APK (arm64)](https://github.com/Marwane-Haddane/mysoil-app/releases/latest/download/MySoil-Android-arm64.apk) | — |
 
 **Latest updates:** [SlideLink](https://github.com/Marwane-Haddane/slidelink/releases) · [Orbit](https://github.com/Marwane-Haddane/orbit/releases) · [Moru](https://github.com/Marwane-Haddane/moru-desktop/releases) · [RIHLA](https://github.com/Marwane-Haddane/rihla-app/releases) · [Furniture](https://github.com/Marwane-Haddane/furniture-mobile-app/releases) · [MySoil](https://github.com/Marwane-Haddane/mysoil-app/releases).
 
