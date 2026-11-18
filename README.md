@@ -18,17 +18,17 @@ My interests span ethical hacking, workflow automation, computer vision, and rob
 
 ### Download my apps
 
-| App | What it does | Android | Windows |
+| App | What it does | Android | Windows / Web |
 |---|---|---|---|
 | **[SlideLink](https://github.com/Marwane-Haddane/slidelink)** | Phone trackpad, presentation remote, and screen preview | [Download APK](https://github.com/Marwane-Haddane/slidelink/releases/download/v0.3.0/SlideLink-Android-0.3.0.apk) | [Download installer](https://github.com/Marwane-Haddane/slidelink/releases/download/v0.3.0/SlideLink-Windows-Setup-0.3.0.exe) |
 | **[Orbit](https://github.com/Marwane-Haddane/orbit)** | Phone companion for a Windows PC | [Download APK](https://github.com/Marwane-Haddane/orbit/releases/download/v0.1.2/Orbit-Android.apk) | [Download Windows ZIP](https://github.com/Marwane-Haddane/orbit/releases/download/v0.1.2/Orbit-Windows-x64.zip) |
 | **[Moru](https://github.com/Marwane-Haddane/moru-desktop)** | AI desktop companion for Windows | — | [Download Windows ZIP](https://github.com/Marwane-Haddane/moru-desktop/releases/download/v0.2.0-preview.1/Moru-0.2.0-win-x64.zip) |
 | **[Rihlaty / RIHLA](https://github.com/Marwane-Haddane/rihla-app)** | Morocco travel, trip planning, and native maps | [Download APK](https://github.com/Marwane-Haddane/rihla-app/releases/latest/download/RIHLA-Android.apk) | — |
 | **[BaraSalfa](https://github.com/Marwane-Haddane/barasalfa-app)** | Arabic social-deduction party game | [Download APK](https://github.com/Marwane-Haddane/barasalfa-app/releases/download/v1.0.0/Barasalfa-1.0.0-android.apk) | [Play web](https://bara-salfa-by-marwane.web.app/) |
-| **[La Belle Maison / Furniture](https://github.com/Marwane-Haddane/furniture-mobile-app)** | Furniture browsing and ordering prototype | [Download APK](https://github.com/Marwane-Haddane/furniture-mobile-app/releases/latest/download/Furniture-Android.apk) | — |
+| **[La Belle Maison / Furniture](https://github.com/Marwane-Haddane/furniture-mobile-app)** | Furniture browsing and ordering prototype | [Download APK](https://github.com/Marwane-Haddane/furniture-mobile-app/releases/latest/download/Furniture-Android.apk) | [Visit website](https://labelle-maison.web.app/) |
 | **[MySoil / Turbati](https://github.com/Marwane-Haddane/mysoil-app)** | Parcel mapping and agricultural information | [Download APK (arm64)](https://github.com/Marwane-Haddane/mysoil-app/releases/latest/download/MySoil-Android-arm64.apk) | — |
 | **[AIRA](https://github.com/Marwane-Haddane/AIRA)** | Dobot Magician drawing studio with local AI portraits | — | [Download installer](https://github.com/Marwane-Haddane/AIRA/releases/download/v1.0.0/AIRA-Setup-1.0.0.exe) |
-| **[RoboControl](https://github.com/Marwane-Haddane/RoboControl-mobileApp)** | Bluetooth controller for robots, cars and hexapods | [Download APK](https://github.com/Marwane-Haddane/RoboControl-mobileApp/releases/download/v1.5.1/RoboContol-1.5.1-android.apk) | — |
+| **[RoboControl](https://github.com/Marwane-Haddane/RoboControl-mobileApp)** | Bluetooth controller for robots, cars and hexapods | [Download APK](https://github.com/Marwane-Haddane/RoboControl-mobileApp/releases/download/v1.5.1/RoboContol-1.5.1-android.apk) | [Visit website](https://robogenius.dev/) |
 | **[ENSA Games](https://github.com/Marwane-Haddane/ensaf-campus-game)** | 3D campus game: incident response + zombie mode | — | [Download Windows ZIP](https://github.com/Marwane-Haddane/ensaf-campus-game/releases/download/v0.1.0/ENSA-Games-Windows.zip) |
 | **[CYD Memory Combo](https://github.com/Marwane-Haddane/cyd-ps4-memory-game)** | ESP32 CYD memory game with a PS4 controller | — | [Flash from browser](https://marwane-haddane.github.io/cyd-ps4-memory-game/) · [Firmware](https://github.com/Marwane-Haddane/cyd-ps4-memory-game/releases/latest) |
 
