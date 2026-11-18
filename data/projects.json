@@ -100,6 +100,42 @@
     "repo": "moru-desktop"
   },
   {
+    "id": "aira",
+    "title": "AIRA",
+    "category": "ROBOTICS · AI · DESKTOP APP",
+    "description": "Dobot Magician drawing studio: a 3D digital twin and local AI that turns a photo into validated plotter paths.",
+    "stack": "Python · Three.js · MediaPipe · ONNX",
+    "live": null,
+    "repo": "AIRA"
+  },
+  {
+    "id": "robocontrol",
+    "title": "RoboControl",
+    "category": "ANDROID · BLUETOOTH ROBOTICS",
+    "description": "One Android app for robots and Bluetooth projects: hexapod, car remote, voice, terminal and smart buttons.",
+    "stack": "React · TypeScript · Android · Bluetooth SPP",
+    "live": null,
+    "repo": "RoboControl-mobileApp"
+  },
+  {
+    "id": "ensagames",
+    "title": "ENSA Games",
+    "category": "GAME · 3D CAMPUS",
+    "description": "3D ENSA Fès campus launcher with an incident-response mission and the After Hours zombie mode.",
+    "stack": "Godot 4 · GDScript · Blender",
+    "live": null,
+    "repo": "ensaf-campus-game"
+  },
+  {
+    "id": "cydmemory",
+    "title": "CYD Memory Combo",
+    "category": "EMBEDDED · GAME",
+    "description": "Memory game for the ESP32 Cheap Yellow Display, played with a PS4 controller over Bluetooth.",
+    "stack": "ESP32 · C++ · Bluepad32 · PlatformIO",
+    "live": "https://marwane-haddane.github.io/cyd-ps4-memory-game/",
+    "repo": "cyd-ps4-memory-game"
+  },
+  {
     "id": "mysoil",
     "title": "MySoil / Turbati",
     "category": "ANDROID · AGRICULTURE",
